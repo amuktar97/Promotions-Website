@@ -14,3 +14,7 @@ This formating for DEL looks off
 ---
 
 # To Do List
+
+[ ] designing Fields 
+[ ] soccer 
+[ ] baseball
