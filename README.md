@@ -6,9 +6,10 @@ CS10 Assignment
 
 - [ ] This is a check box
 - [x] this is a checked box
-- <del> [x] this a checked box </del>
+- [x] <del> this a checked box </del>
 
 This formating for DEL looks off
+<del> [x] this a checked box </del>
 
 ---
 
