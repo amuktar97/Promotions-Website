@@ -16,6 +16,5 @@ This formating for DEL looks off
 # To Do List
 
 - [ ] designing Fields 
-- [ ] soccer 
-- [ ] baseball
-- [ ] running
+IMG-3120.jpg
+IMG-3119.jpg
