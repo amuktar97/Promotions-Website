@@ -1,8 +1,7 @@
 # Promotions Website
 CS10 Assignment 
 
-# Reminders 
-- None yet
+# Remind- None yet
 
 - [ ] This is a check box
 - [x] this is a checked box
@@ -15,5 +14,4 @@ This formating for DEL looks off
 ---
 
 # To Do List
-
 - [ ] designing Fields 
